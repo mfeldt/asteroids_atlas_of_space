@@ -7,3 +7,7 @@ This repository is based on Eleanor Lutz' [Asteroids Atlas of Space](https://git
 
 For an excellent manual on what the different files are, and how they can be used, please refer to the original repository.
 
+### Software
+
+ - Blender 3.0.0
+ - Python 3.9
