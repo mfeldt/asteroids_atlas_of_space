@@ -1,4 +1,5 @@
 class,color,zorder,desc,label
+SPC,#bbeeee,0,spacecraft,Spacecraft
 MBA,#00ada7,0,main belt asteroid,Main belt asteroid
 TJN,#f38b8a,3,trojan asteroid,Trojan asteroid
 OMB,#ffd393,1,outer main belt asteroid,Outer main belt asteroid
